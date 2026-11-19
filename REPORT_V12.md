@@ -383,5 +383,5 @@ python3 -m stride.strategic_move_plots
 ```
 
 Machine-readable results are in
-[`artifacts_v12/strategic_move_results.json`](artifacts_v12/strategic_move_results.json)
-and [`artifacts_v12/explicit_game_suite.json`](artifacts_v12/explicit_game_suite.json).
+[`results/strategic_move_results.json`](results/strategic_move_results.json)
+and [`results/explicit_game_suite.json`](results/explicit_game_suite.json).
