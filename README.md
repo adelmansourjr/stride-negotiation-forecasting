@@ -1,6 +1,6 @@
 # STRIDE Negotiation Forecasting
 
-A payoff-conditioned next-move classifier evaluated on the public Deal or No Deal negotiation corpus. The archived model obtained 44.30% action accuracy against 42.19% for the matched history-only model on 2,650 held-out moves.
+I tested whether payoff geometry helps predict the next bargaining move in the public Deal or No Deal negotiation corpus. The archived model obtained 44.30% action accuracy against 42.19% for the matched history-only model on 2,650 held-out moves.
 
 The evaluation gives the model both parties' assigned payoff tables. This information was private to each human negotiator. The result concerns an experimenter with that information. [Detailed study and limitations](REPORT_V12.md) · [Aggregate outcomes](results/strategic_move_results.json)
 
